@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Encryptor</string>
+    <string name="hint">Enter input text</string>
+    <string name="Ceaser_encrypt">Ceaser encrypt</string>
+    <string name="ROT_encrypt">ROT-13 encrypt</string>
+    <string name="Ceaser_Decrypt">Ceaser Decrypt</string>
+    <string name="Rot_Decrypt">ROT-13 Decrypt</string>
+
+</resources>
